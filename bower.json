@@ -1,0 +1,15 @@
+{
+  "name": "angular-schema-select2",
+  "main": "angular-schema-select2.js",
+  "homepage": "https://github.com/FernandoVelcic/angular-schema-select2",
+  "authors": [
+    "FernandoVelcic"
+  ],
+  "description": "",
+  "keywords": [
+    "angular",
+    "schema",
+    "select2"
+  ],
+  "license": "MIT"
+}
